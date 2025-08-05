@@ -19,14 +19,14 @@ import {
 
 // --- DADOS MOCKADOS (Sem alterações aqui) ---
 // No futuro, isso pode vir de uma API.
-const mediaImage = "./src/assets/aula1.jpg";
-const mediaImage2 = "./src/assets/aula2.jpg";
-const mediaImage3 = "./src/assets/aula3.jpg";
-const mediaImage4 = "./src/assets/aula4.jpg";
-const mediaImage5 = "./src/assets/aula1md2.jpg";
-const mediaImage6 = "./src/assets/aula1md3.jpg";
-const bannerImage = "./src/assets/banner.png";
-const ebookimg = "./src/assets/ebook.png";
+const mediaImage = "/assets/assets/aula1.jpg";
+const mediaImage2 = "/assets/assets/aula2.jpg";
+const mediaImage3 = "/assets/assets/aula3.jpg";
+const mediaImage4 = "/assets/assets/aula4.jpg";
+const mediaImage5 = "/assets/assets/aula1md2.jpg";
+const mediaImage6 = "/assets/assets/aula1md3.jpg";
+const bannerImage = "/assets/assets/banner.png";
+const ebookimg = "/assets/assets/ebook.png";
 
 const contactInfo = {
   email: "abraaohenrique.10@gmail.com",
